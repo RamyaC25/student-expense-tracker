@@ -37,3 +37,36 @@ A beginner-friendly Python project to track expenses and manage a budget.
 ## Project Status
 
 Completed ✅
+
+
+## Sample Output
+
+Enter your budget: 5000
+Enter your first expense amount: 500
+Enter the expense category: Food
+Enter the expense description: Lunch
+
+--- Expense Details ---
+Category: Food
+Description: Lunch
+Amount: 500
+-----------------------
+Total expense: 500
+
+Enter the next expense amount: 300
+Enter the category for this expense: Shopping
+Enter the description: Notebook
+
+--- New Expense ---
+Category: Shopping
+Description: Notebook
+Amount: 300
+Total expense: 800
+
+Do you want to add another expense? (yes/no): no
+
+--- Final Summary ---
+Total expense: 800
+Final remaining budget: 4200
+You stayed within your budget.
+
