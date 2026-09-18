@@ -41,6 +41,7 @@ Completed ✅
 
 ## Sample Output
 
+```text
 Enter your budget: 5000
 Enter your first expense amount: 500
 Enter the expense category: Food
@@ -69,4 +70,4 @@ Do you want to add another expense? (yes/no): no
 Total expense: 800
 Final remaining budget: 4200
 You stayed within your budget.
-
+```
